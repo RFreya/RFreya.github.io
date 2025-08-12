@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://RFreya.github.io/posts/my-first-post/</loc>
-    <lastmod>2025-08-12T15:55:36+08:00</lastmod>
-  </url><url>
     <loc>https://RFreya.github.io/</loc>
-    <lastmod>2025-08-12T15:55:36+08:00</lastmod>
+    <lastmod>2025-08-12T19:51:42+08:00</lastmod>
   </url><url>
     <loc>https://RFreya.github.io/posts/</loc>
+    <lastmod>2025-08-12T19:51:42+08:00</lastmod>
+  </url><url>
+    <loc>https://RFreya.github.io/posts/%E5%AF%BB%E6%89%BE%E7%AB%B9%E8%8A%82%E8%99%AB/</loc>
+    <lastmod>2025-08-12T19:51:42+08:00</lastmod>
+  </url><url>
+    <loc>https://RFreya.github.io/posts/my-first-post/</loc>
     <lastmod>2025-08-12T15:55:36+08:00</lastmod>
   </url><url>
     <loc>https://RFreya.github.io/categories/</loc>

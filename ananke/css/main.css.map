@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/YYDS/Downloads/hugo_extended_0.148.2_windows-amd64/quickstart",
+	"sourceRoot": "D:/下载的内容/hugo_extended_0.148.2_windows-amd64/quickstart",
 	"sources": [
 		"ananke/css/main.css"
 	],
